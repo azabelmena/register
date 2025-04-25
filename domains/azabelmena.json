@@ -1,0 +1,11 @@
+{
+    "description": "Subdomain for my personal website",
+    "repo": "https://github.com/azabelmena/azabelmena.github.io",
+    "owner": {
+        "username": "azabelmena",
+        "email": "alec.zabel@upr.edu"
+    },
+    "records": {
+        "CNAME": "azabelmena.github.io"
+    }
+}
